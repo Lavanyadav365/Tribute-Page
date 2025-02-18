@@ -1,0 +1,26 @@
+*{
+    margin:0px;
+    padding:0px;
+    background-color:azure;
+}
+img{
+    border-radius: 2rem;
+    padding: 10px;
+
+}
+body{
+    align-items: center;
+    justify-content: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-weight:25px;
+
+}
+h1,h2{
+    color:brown;
+}
+h1{
+    color:black;
+    font-size: 50px;
+    font-style: normal;
+}
